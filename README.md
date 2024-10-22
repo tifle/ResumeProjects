@@ -6,12 +6,12 @@ The most relevant projects are listed on my [resume](https://github.com/tifle/Re
 * **Inpatient Length of Stay & Mortality Prediction**(Python, TensorFlow, PyTorch), July 2024 - Present
   * Code is currently in-progress, but it will be uploaded to this repository once the paper has been published.
 * **Geospatial Analysis for Real Estate Investment**(Python,GIS, ArcGIS), September-October 2024
-  * Read my article regarding geospatial analysis [here](https://medium.com/@tifle/geospatial-analysis-for-real-estate-investment-decisions-739937f161d1)
   * Perform geospatial analysis on King County house sales to asses the proximity of houses to public services
   * Develop and compare two machine learning models (Random Forest Regressor and XGBoost) for price prediction,
     utilizing features from geospatial analysis to strengthen the model’s performance
   * Publish an article and present project findings on geospatial analysis fundamentals and its role in real
     estate as a student speaker for a senior applied business analytics course
+  * Read my article regarding geospatial analysis [here](https://medium.com/@tifle/geospatial-analysis-for-real-estate-investment-decisions-739937f161d1)
 * **Women in Data Science (WiDS): Time to Treatment Prediction**(Python, SciKit Learn), January 2024
   * Programmed a predictive model using Catboost for the 2024 WiDS Datathon to determine the time to treatment
     for patients diagnosed with metastatic triple-negative breast cancer and had the strongest-performing model
