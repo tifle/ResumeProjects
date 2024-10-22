@@ -1,6 +1,6 @@
-![image](https://github.com/tifle/ResumeProjects/blob/897df3f80da1a68d1eb5fd3818543c1a1d63ddcf/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner.jpg)
+![image](https://github.com/tifle/ResumeProjects/blob/84a9bb5cba19d2f57027d4a62422e0fcced01b1a/Supplementary%20Files/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner.jpg)
 # ResumeProjects
-All projects that are on my extended resume.
+The most relevant projects are listed on my [resume](https://github.com/tifle/ResumeProjects/blob/84a9bb5cba19d2f57027d4a62422e0fcced01b1a/Supplementary%20Files/MASTER_Tiffany.Tech_Resume%20(5).pdf). This is the list of all of my projects that are or aren't included in my resume.
 
 # Projects
 * **Inpatient Length of Stay & Mortality Prediction**(Python, TensorFlow, PyTorch), July 2024 - Present
