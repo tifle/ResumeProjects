@@ -6,6 +6,8 @@ with the product's company. We are the first open-source dataset and model for g
 
 View our published poster [here](https://blogs.chapman.edu/gci/2023/05/09/an-application-for-detecting-grocery-store-discounts/)
 
+View our open-sourced dataset [here](https://universe.roboflow.com/sap-grocery-store/sale-detection)
+
 ## Team Members
 * Matthew Favela
 * Tiffany Le
