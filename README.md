@@ -1,4 +1,4 @@
-![image]
+![image](https://github.com/tifle/ResumeProjects/blob/897df3f80da1a68d1eb5fd3818543c1a1d63ddcf/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner.jpg)
 # ResumeProjects
 All projects that are on my extended resume.
 
