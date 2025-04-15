@@ -1,0 +1,48 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Shredded Pepper Jack Cheese Blend",
+        "description": "Hailing from its humble beginnings as a derivative of Monterey Jack, the original “American” cheese, when it was invented by the Mexican Franciscan friars of sunny and coastal Monterey, California. Our Pepper Jack Cheese uses a mild, creamy and Shredded Monterey Jack cheese as its base - it is, afterall, where it gets the name “Jack”.",
+        "cost": "$3.99",
+        "isCold": true,
+        "isLiked": false,
+        "imageName": "cheese"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "French Market Sparkling Pink Lemonade",
+        "description": "In France, lemonade takes on a different meaning. As long as it’s carbonated and lemon-flavored, it qualifies as lemonade. We found a supplier in France that makes one of the best French lemonades, who now makes Trader Joe’s Sparkling Pink Lemonade for us, right from the French Market",
+        "cost": "$3.99",
+        "isCold": false,
+        "isLiked": false,
+        "imageName": "pinkLemon"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "World's Puffiest White Cheddar Corn Puffs",
+        "description": "These Puffs are made for us with cornmeal that’s combined with water and baked to a light, airy, yes, puffy texture, then generously coated with powdered white Cheddar that’s (gasp!) made from actual white Cheddar cheese! #truth. They’re made in TJ’s Too Secret Corn Puff Machine No. 00358.",
+        "cost": "$2.69",
+        "isCold": false,
+        "isLiked": true,
+        "imageName": "puff"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Organic Pasture Raised Large Brown Eggs",
+        "description": "Some would consider ‘pasture-raised’ to be the gold standard for chicken eggs. Trader Joe's Organic Pasture Raised Large Brown Eggs come from certified organic, family-owned farms, where the chickens live outside most of the time, free to forage for bugs, seeds, or whatever they are inclined to eat.",
+        "cost": "$6.99",
+        "isCold": true,
+        "isLiked": false,
+        "imageName": "eggs"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Organic Bananas",
+        "description": "Almost 25 years ago, our Top Banana (a.k.a. our CEO)—came across a long-time customer in our Sun City, Arizona store. After observing her pass on a pre-packaged bunch of bananas, he said, “Excuse me, ma’am, but why aren’t you buying those bananas?”",
+        "cost": "$0.29",
+        "isCold": false,
+        "isLiked": false,
+        "imageName": "banana"
+    }
+    
+]
